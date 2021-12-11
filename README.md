@@ -1,7 +1,7 @@
 ### Hi there, I'm Thomas 🐴
 
 [![chengbapi's github status](https://github-readme-stats.vercel.app/api?username=chengbapi&theme=radical&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengbapi&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengbapi&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **chengbapi/chengbapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
